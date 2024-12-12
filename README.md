@@ -93,7 +93,8 @@ Would you like an image representation of your dream? (yes/no)
 ```
 
 ### Generated Image
-![dream_20241212_114125](https://github.com/user-attachments/assets/20a15edf-b884-4254-b01a-04d01fc46974)
+![dream_20241212_105442](https://github.com/user-attachments/assets/33501290-197c-418e-9a66-6b289e9f15a1)
+
 
 
 ## Project Structure
