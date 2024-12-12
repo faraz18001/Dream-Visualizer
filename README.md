@@ -81,10 +81,10 @@ strangely calm.
 ### Expected Output Flow:
 ```
 🌙 Dream Analysis Exploration 🌙
-Dream Analyst: [Initial Interpretation]
+Dream Analyst: [I was on another planet]
 Dream Analyst: What was the most vivid image in your dream?
-You: [Detailed Response]
-Dream Analyst: [Follow-up Interpretation]
+You: [There was a moon infront of me]
+Dream Analyst: [it was like the moon was on the horizon]
 
 --- Dream Insights ---
 [Meta-Analysis of Dream Themes]
@@ -93,7 +93,8 @@ Would you like an image representation of your dream? (yes/no)
 ```
 
 ### Generated Image
-[Placeholder for Generated Dream Image]
+![dream_20241212_114125](https://github.com/user-attachments/assets/20a15edf-b884-4254-b01a-04d01fc46974)
+
 
 ## Project Structure
 - `main.py`: Core dream analysis logic
